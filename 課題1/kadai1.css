@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+*{
+margin:0;
+padding:0;
+}
+header{
+    padding: 20px;
+    background-size: 100px;
+    box-shadow: 0 0 2px rgba(0,0,0,4);
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 60px;
+    color: #999900;
+    background-color: #fff;
+}
+main{
+    background-color: #fff;
+    padding-bottom: 30px;
+}
+h2.yogo{
+    padding-top: 15px;
+    font-size: 25px;
+    color: #6666ff;
+}
+.midasi{
+    padding-left: 15px;
+}
+p.setumei{
+    font: size 1.5em; ;
+    color: #000;
+    border: 0px;
+    padding-bottom: 5px;
+}
+body{
+    margin: 40px;
+    background-color: #ff6;
+    border: 40px;
+    border-color:10px solid #fff;
+}
+footer{
+    padding-top: 20px;
+}
